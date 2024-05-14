@@ -1,5 +1,6 @@
-### Hi there 👋
 
+### Hi there 👋
+![](https://raw.githubusercontent.com/0v0d/0v0d/output/github-contribution-grid-snake.svg)
 <!--
 **0v0d/0v0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
