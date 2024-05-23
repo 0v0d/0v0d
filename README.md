@@ -4,5 +4,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0v0d&show_icons=true&locale=en&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=0v0d&show_icons=true&locale=en&theme=default" />
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=0v0d&show_icons=true&locale=en&theme=default" />
+  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=0v0d&show_icons=true&locale=en&theme=default" />
 </picture>
