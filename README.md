@@ -1,8 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=0v0d&color=blue)
 ### Hi there 👋
 ![](https://raw.githubusercontent.com/0v0d/0v0d/output/github-contribution-grid-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0v0d&show_icons=true&locale=en&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=0v0d&show_icons=true&locale=en&theme=default" />
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=0v0d&show_icons=true&locale=en&theme=default" />
-</picture>
+[![](https://github-readme-stats.vercel.app/api?username=0v0d&hide=contribs&count_private=true&show_icons=true&theme=default)](https://github.com/0v0d/)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=0v0d&layout=compact&theme=default)](https://github.com/0v0d/)
